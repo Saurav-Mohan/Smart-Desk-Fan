@@ -1,6 +1,6 @@
-# RIG-Induction-Smart-Desk-Fan
-Smart Tracking Thermal Fan
-An automated desktop cooling system that integrates computer vision and thermal sensing to provide targeted airflow. The system utilizes face detection to orient the fan toward the user while dynamically adjusting motor speed based on environmental temperature.
+# Smart-Desk-Fan
+
+A desktop cooling system that uses computer vision and thermal sensing to provide targeted airflow. The system utilizes face detection to orient the fan toward the user while adjusting motor speed based on ambient temperature.
 
 Features
 Autonomous Face Tracking: Uses Haar Cascade classifiers to identify and follow the nearest human face.
