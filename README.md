@@ -12,7 +12,7 @@ Temperature-Dependent PWM: Automated fan speed adjustment based on real-time amb
 Hardware Components
 Microcontroller: ESP32
 
-Video Capture: Laptop webcam
+Video Capture: Laptop webcam 
 
 Actuation: Two High-Torque Servo Motors (Pan/Tilt) and one DC Fan.
 
